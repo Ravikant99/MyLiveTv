@@ -1,0 +1,77 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">MyLiveTv</string>
+    
+    <!-- Screen Titles -->
+    <string name="home_screen_title">HomeScreen</string>
+    <string name="channel_screen_title">Channels</string>
+    <string name="player_screen_title">Player</string>
+    
+    <!-- Tab Names -->
+    <string name="tab_categories">Categories</string>
+    <string name="tab_languages">Languages</string>
+    <string name="tab_countries">Countries</string>
+    
+    <!-- Common Actions -->
+    <string name="action_search">Search</string>
+    <string name="action_back">Back</string>
+    <string name="action_close">Close</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_refresh">Refresh</string>
+    
+    <!-- Search Related -->
+    <string name="search_hint">Search channels…</string>
+    <string name="search_channels">Search channels</string>
+    <string name="no_channels_found">No channels found</string>
+    <string name="search_results_for">Results for: %1$s</string>
+    
+    <!-- Player Controls -->
+    <string name="player_resize">Resize</string>
+    <string name="player_mode_fit">FIT</string>
+    <string name="player_mode_zoom">ZOOM</string>
+    <string name="player_mode_fill">FILL</string>
+    
+    <!-- Channel Navigation -->
+    <string name="no_next_channel">No next channel available</string>
+    <string name="no_previous_channel">No previous channel available</string>
+    
+    <!-- Recently Watched -->
+    <string name="recently_watched">Recently Watched</string>
+    <string name="no_recently_watched">No recently watched channels</string>
+    
+    <!-- Error Messages -->
+    <string name="error_loading_channels">Error loading channels</string>
+    <string name="error_playing_stream">Error playing stream</string>
+    <string name="error_network">Network error occurred</string>
+    <string name="error_unknown">An unknown error occurred</string>
+    <string name="error_stream_not_available">Stream not available</string>
+    <string name="error_behind_live_window">Stream too far behind live</string>
+    
+    <!-- Loading States -->
+    <string name="loading_channels">Loading channels…</string>
+    <string name="loading_stream">Loading stream…</string>
+    <string name="buffering">Buffering…</string>
+    
+    <!-- Empty States -->
+    <string name="no_channels">No channels available</string>
+    <string name="no_data">No data available</string>
+    
+    <!-- Splash Screen -->
+    <string name="splash_tagline">Stream Anywhere, Anytime</string>
+    
+    <!-- Content Descriptions (Accessibility) -->
+    <string name="cd_channel_logo">Channel logo</string>
+    <string name="cd_back_button">Back button</string>
+    <string name="cd_search_button">Search button</string>
+    <string name="cd_resize_button">Resize button</string>
+    <string name="cd_app_logo">App logo</string>
+    
+    <!-- Player States -->
+    <string name="player_playing">Playing</string>
+    <string name="player_paused">Paused</string>
+    <string name="player_stopped">Stopped</string>
+    
+    <!-- Cache -->
+    <string name="cache_cleared">Cache cleared</string>
+    <string name="cache_updated">Cache updated</string>
+</resources>

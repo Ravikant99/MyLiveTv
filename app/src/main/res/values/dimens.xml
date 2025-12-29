@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="spacing_xxs">2dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+    <dimen name="spacing_default">16dp</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+    <dimen name="spacing_xl">24dp</dimen>
+    <dimen name="spacing_xxl">32dp</dimen>
+    <dimen name="spacing_xxxl">48dp</dimen>
+    
+    <!-- Padding -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="padding_xl">24dp</dimen>
+    
+    <!-- Margin -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_xl">24dp</dimen>
+    
+    <!-- Text Sizes -->
+    <dimen name="text_size_caption">12sp</dimen>
+    <dimen name="text_size_body">14sp</dimen>
+    <dimen name="text_size_body_large">16sp</dimen>
+    <dimen name="text_size_subtitle">18sp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_heading">24sp</dimen>
+    <dimen name="text_size_display">28sp</dimen>
+    <dimen name="text_size_large_display">32sp</dimen>
+    
+    <!-- Icon Sizes -->
+    <dimen name="icon_size_small">16dp</dimen>
+    <dimen name="icon_size_medium">24dp</dimen>
+    <dimen name="icon_size_large">32dp</dimen>
+    <dimen name="icon_size_xl">48dp</dimen>
+    <dimen name="icon_size_xxl">64dp</dimen>
+    
+    <!-- Button Sizes -->
+    <dimen name="button_height_small">36dp</dimen>
+    <dimen name="button_height_default">48dp</dimen>
+    <dimen name="button_height_large">56dp</dimen>
+    <dimen name="button_min_width">88dp</dimen>
+    <dimen name="button_padding_horizontal">16dp</dimen>
+    <dimen name="button_padding_vertical">12dp</dimen>
+    
+    <!-- Corner Radius -->
+    <dimen name="corner_radius_small">4dp</dimen>
+    <dimen name="corner_radius_medium">8dp</dimen>
+    <dimen name="corner_radius_large">12dp</dimen>
+    <dimen name="corner_radius_xl">16dp</dimen>
+    <dimen name="corner_radius_xxl">24dp</dimen>
+    <dimen name="corner_radius_round">50dp</dimen>
+    
+    <!-- Elevation/Shadow -->
+    <dimen name="elevation_none">0dp</dimen>
+    <dimen name="elevation_small">2dp</dimen>
+    <dimen name="elevation_medium">4dp</dimen>
+    <dimen name="elevation_large">8dp</dimen>
+    <dimen name="elevation_xl">12dp</dimen>
+    
+    <!-- Border Width -->
+    <dimen name="border_width_thin">1dp</dimen>
+    <dimen name="border_width_medium">2dp</dimen>
+    <dimen name="border_width_thick">4dp</dimen>
+    
+    <!-- Card Dimensions -->
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    
+    <!-- Channel Item -->
+    <dimen name="channel_logo_size">80dp</dimen>
+    <dimen name="channel_logo_size_small">60dp</dimen>
+    <dimen name="channel_logo_size_large">100dp</dimen>
+    <dimen name="channel_card_padding">12dp</dimen>
+    <dimen name="channel_card_corner_radius">12dp</dimen>
+    
+    <!-- Category Item -->
+    <dimen name="category_item_padding_vertical">16dp</dimen>
+    <dimen name="category_item_padding_horizontal">24dp</dimen>
+    <dimen name="category_item_corner_radius">8dp</dimen>
+    <dimen name="category_item_border_width">1dp</dimen>
+    
+    <!-- Tab Bar -->
+    <dimen name="tab_height">48dp</dimen>
+    <dimen name="tab_corner_radius">24dp</dimen>
+    <dimen name="tab_padding_horizontal">16dp</dimen>
+    <dimen name="tab_padding_vertical">12dp</dimen>
+    <dimen name="tab_elevation">6dp</dimen>
+    
+    <!-- Search Bar -->
+    <dimen name="search_bar_height">56dp</dimen>
+    <dimen name="search_bar_corner_radius">8dp</dimen>
+    <dimen name="search_icon_size">24dp</dimen>
+    <dimen name="search_icon_padding">12dp</dimen>
+    
+    <!-- Player Controls -->
+    <dimen name="player_button_size">48dp</dimen>
+    <dimen name="player_button_size_large">56dp</dimen>
+    <dimen name="player_controls_padding">16dp</dimen>
+    <dimen name="player_resize_button_size">40dp</dimen>
+    
+    <!-- Splash Screen -->
+    <dimen name="splash_logo_size">120dp</dimen>
+    <dimen name="splash_logo_size_large">140dp</dimen>
+    <dimen name="splash_title_margin_top">24dp</dimen>
+    
+    <!-- Grid Spacing -->
+    <dimen name="grid_spacing_small">8dp</dimen>
+    <dimen name="grid_spacing_medium">12dp</dimen>
+    <dimen name="grid_spacing_large">16dp</dimen>
+    
+    <!-- Minimum Touch Target -->
+    <dimen name="touch_target_min">48dp</dimen>
+    
+    <!-- Divider -->
+    <dimen name="divider_height">1dp</dimen>
+    
+    <!-- App Bar -->
+    <dimen name="app_bar_height">56dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
+</resources>
+

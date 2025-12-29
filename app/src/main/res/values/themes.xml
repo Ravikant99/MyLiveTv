@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyLiveTv" parent="android:Theme.Material.Light.NoActionBar" />
+    
+    <!-- Splash Screen Theme -->
+    <style name="Theme.MyLiveTv.Splash" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background color -->
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        
+        <!-- Set the splash screen icon (round live TV) -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo_with_text</item>
+        
+        <!-- Remove the icon background circle to prevent cutting -->
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        
+        <!-- Brand logo color -->
+        <item name="postSplashScreenTheme">@style/Theme.MyLiveTv</item>
+        
+        <!-- Splash screen animation duration (increased for better visibility) -->
+        <item name="windowSplashScreenAnimationDuration">2000</item>
+
+    </style>
+</resources>

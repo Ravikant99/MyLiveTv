@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- App Theme Colors -->
+    <color name="app_primary">#FF6650a4</color>
+    <color name="app_primary_dark">#FF3700B3</color>
+    <color name="splash_background">#FF1A1A2E</color>
+    <color name="splash_icon_background">#FF6650a4</color>
+    
+    <!-- Screen Backgrounds -->
+    <color name="home_background">#FFB8E6B8</color>
+    <color name="channel_background">#FFF0F0F0</color>
+    <color name="player_background">#FF000000</color>
+    
+    <!-- Tab Colors -->
+    <color name="tab_selected">#FF2191E5</color>
+    <color name="tab_unselected">#FFADD8E6</color>
+    <color name="tab_text_selected">#FFFFFFFF</color>
+    <color name="tab_text_unselected">#FF000000</color>
+    
+    <!-- Category Item Colors -->
+    <color name="category_background">#FFF0F8FF</color>
+    <color name="category_text">#FF333333</color>
+    <color name="category_border">#FFADD8E6</color>
+    
+    <!-- Card Colors -->
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="card_border">#FFE0E0E0</color>
+    <color name="card_shadow">#1A000000</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FF000000</color>
+    <color name="text_secondary">#FF666666</color>
+    <color name="text_tertiary">#FF999999</color>
+    <color name="text_white">#FFFFFFFF</color>
+    <color name="text_error">#FFFF5555</color>
+    
+    <!-- Button Colors -->
+    <color name="button_primary">#FF6200EE</color>
+    <color name="button_secondary">#FF03DAC5</color>
+    <color name="button_disabled">#FFCCCCCC</color>
+    
+    <!-- Search Colors -->
+    <color name="search_background">#FFFFFFFF</color>
+    <color name="search_icon">#FF6200EE</color>
+    <color name="search_text">#FF000000</color>
+    
+    <!-- Player Colors -->
+    <color name="player_controls_background">#CC000000</color>
+    <color name="player_button_background">#FF6200EE</color>
+    <color name="player_button_text">#FFFFFFFF</color>
+    
+    <!-- Error/Loading Colors -->
+    <color name="error_background">#FFFFE5E5</color>
+    <color name="error_text">#FFFF0000</color>
+    <color name="loading_indicator">#FF6200EE</color>
+    
+    <!-- Transparent Colors -->
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_black">#80000000</color>
+    <color name="semi_transparent_white">#80FFFFFF</color>
+    
+    <!-- Overlay Colors -->
+    <color name="overlay_dark">#99000000</color>
+    <color name="overlay_light">#99FFFFFF</color>
+</resources>
