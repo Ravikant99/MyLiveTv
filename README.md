@@ -1,6 +1,6 @@
 # My Live TV 📺
 
-A modern Android IPTV player app built with Jetpack Compose and ExoPlayer that streams live TV channels from M3U playlists.
+A modern Android IPTV player app built with Jetpack Compose and ExoPlayer that streams live TV channels from IPTV ([iptv-org/iptv](https://github.com/iptv-org/iptv)) M3U playlists.
 
 ## Features ✨
 
@@ -263,6 +263,7 @@ Ravi Kant Sharma
 - Jetpack Compose for modern UI development
 - Material Design for UI/UX guidelines
 - Android development community
+- IPTV ([iptv-org/iptv](https://github.com/iptv-org/iptv)) for Playlist URL
 
 ---
 
